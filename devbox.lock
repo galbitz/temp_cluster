@@ -1,0 +1,65 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "age@latest": {
+      "last_modified": "2024-01-27T14:55:31Z",
+      "resolved": "github:NixOS/nixpkgs/160b762eda6d139ac10ae081f8f78d640dd523eb#age",
+      "source": "devbox-search",
+      "version": "1.1.1",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/aqx5vnm1vb4c8vpagzaflnp3qvyqr5jp-age-1.1.1"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/99dnc862mawd54710cy1lpa8d42x5gq1-age-1.1.1"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/4m7f05jk4lcwfi8gnxyjrs7jgy4xbcr1-age-1.1.1"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/c8yzwhqz5bmmxfl9hxx97ddxa7nzln88-age-1.1.1"
+        }
+      }
+    },
+    "go-task@latest": {
+      "last_modified": "2024-02-05T02:15:44Z",
+      "resolved": "github:NixOS/nixpkgs/0a254180b4cad6be45aa46dce896bdb8db5d2930#go-task",
+      "source": "devbox-search",
+      "version": "3.34.1",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/k35awknqd915j60i0v3wcp9khyncxgxz-go-task-3.34.1"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/vkd3mhal3r7ky7bx9jbc0vrb2ydq3806-go-task-3.34.1"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/lxpg9965xy7bzf5n1p2k68hlc4in1pbl-go-task-3.34.1"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/wngsqjqxwd8xz6sk9bpah8fz92yaqila-go-task-3.34.1"
+        }
+      }
+    },
+    "sops@latest": {
+      "last_modified": "2024-01-27T14:55:31Z",
+      "resolved": "github:NixOS/nixpkgs/160b762eda6d139ac10ae081f8f78d640dd523eb#sops",
+      "source": "devbox-search",
+      "version": "3.8.1",
+      "systems": {
+        "aarch64-darwin": {
+          "store_path": "/nix/store/vjzhpsygm3dd8ihjici7rhc1n8y1vsm2-sops-3.8.1"
+        },
+        "aarch64-linux": {
+          "store_path": "/nix/store/xikrjlhp72dfl6bbddvj4nc6p3mh3qsx-sops-3.8.1"
+        },
+        "x86_64-darwin": {
+          "store_path": "/nix/store/griz89n6jm3r38ppwwsj4419dxh2fbzg-sops-3.8.1"
+        },
+        "x86_64-linux": {
+          "store_path": "/nix/store/xinfyvy7iw6841agy9azbfxp2kjlcd6m-sops-3.8.1"
+        }
+      }
+    }
+  }
+}
